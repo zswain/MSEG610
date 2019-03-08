@@ -1,1 +1,1 @@
-# MSEG610
+# Files for Experimental Mechanics of Composites
